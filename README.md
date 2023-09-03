@@ -1,9 +1,9 @@
-# Final-Project-Statistical-Modelling-with-Python
+## Final-Project-Statistical-Modelling-with-Python
 
-## Project/Goals
-(fill in your description and goals here)
-
-## Process
+### Project/Goals
+- Request necessary data from Yelp and Foursquare. Then  create a database for the retrieved data.
+- 
+### Process
 ### (your step 1)
 ### (your step 2)
 
