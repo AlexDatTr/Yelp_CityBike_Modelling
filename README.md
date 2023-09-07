@@ -17,11 +17,11 @@
 - Evaluate the outcome.
 
 ### Results
-- Many point of data is collected from the Foursquare and Yelp API. Yelp API provide more data point and provide an easier method to retrieved the data 
-- The built model suggests that the number of bike depend on the average rating of restaurant in the area.
+- Many point of data is collected from the Foursquare and Yelp API. Yelp API provide more data point and provide an easier method to retrieved the data. With the same input 
+- All different models tried in the project have low R square value and The built model suggests that the number of bike do not depend on any variables in the dataset
 
 ### Challenges 
-- Local computer confid doesn't allow more API call from Foursquare and Yelp API.
-- The evaluated model is not completely strong
+- Local computer configuration doesn't allow more API call from Foursquare and Yelp API.
+- The evaluated models is not strong, and no relationship is found from the any models
 ## Future Goals
 - Retrieve more data from both API to check if there is any other element that can affect the number of bikes per station
