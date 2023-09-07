@@ -25,3 +25,10 @@
 - The evaluated models is not strong, and no relationship is found from the any models
 ## Future Goals
 - Retrieve more data from both API to check if there is any other element that can affect the number of bikes per station
+
+
+
+| this|is|
+|----|----|
+|12|13|
+
