@@ -34,7 +34,7 @@
 - Evaluate the outcome.
 
 ### Results
-- Many point of data is collected from the Foursquare and Yelp API. Yelp API provide more data point and provide an easier method to retrieved the data. With the same input 
+- Many point of data is collected from the Foursquare and Yelp API. Yelp API provide more data point and provide an easier method to retrieved the data. With the same input from the station_df file. The returned data from Yelp is twice as many as Yelp
 - All different models tried in the project have low R square value and The built model suggests that the number of bike do not depend on any variables in the dataset
 
 ### Challenges 
