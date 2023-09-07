@@ -29,9 +29,8 @@
 |5|	343.3333333333333|	8.3|	1.9666666666666666|	580.3412780723908|	15.0|	15|	15|
 
 - Clean data from joined_df dataframe.
-- Use heatmap and scatterplot to roughly explore the data.
-- Evaluate data to build linear regression models. Improving the models to find the most fit.
-- Evaluate the outcome.
+- Use heatmap and scatterplot to roughly explore the data. The graphs and evaluation of the graphs is in the joining_data.ipynb file
+- Evaluate data to build linear regression models. Improving the models to find the most fit and evaluate the final result. The model outcomes and evaluation is in model_building.ipynb file
 
 ### Results
 - Many point of data is collected from the Foursquare and Yelp API. Yelp API provide more data point and provide an easier method to retrieved the data. With the same input from the station_df file. The returned data from Yelp is twice as many as Yelp
