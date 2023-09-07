@@ -8,6 +8,7 @@
 
 ### Process
 - Request API call from city bike API to retrieved stations data in Washington DC. Then parse the response and store the data in a dataframe. Here's a sample of the data received
+  
 ```
 |Latitude  |	longitude|	number of bikes|	station id|
 |--------- |---------- |-----------------|------------|
